@@ -1,10 +1,13 @@
+#tindog-website
+using Html, Css and Bootstrap4.
+
 <p align="center">
   <img style="border-width: 0" src="favicon_io/android-chrome-192x192.png" alt="drummer logo">
 </p>
 
 
 # tindog
-A dating website design made for dogs.
+A tinder dating website design made for dogs.
 
 # Motivation
 Create this website to built a UI for a dating website.
@@ -23,7 +26,7 @@ Create this website to built a UI for a dating website.
 1. [Bootstrap4](https://getbootstrap.com/)
 
 # How to use?
-If want to use this website just go to the this [link](https://tindogsite.netlify.app/) and get motivation from this UI.
+If you want to use this website just go to the this [link](https://tindogsite.netlify.app/) and get motivation from this UI.
 
 # How to contribute?
 1. Fork the project.
